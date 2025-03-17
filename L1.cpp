@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-/*
+
 int a = 7;
 cout << a <<endl ;
 
@@ -33,8 +33,8 @@ cout << "The Size of Data type 'FLOAT' is : " << size3 << endl;
 
 int size4 = sizeof(double);
 cout << "The Size of Data type 'DOUBLE' is : " << size4 << endl;
-*/
-/*
+
+
 int i = 'a';
 cout << i << endl;
 // OUTPUT : 97 ... As the data type is int so result will be in int so a gets converted to ASCII value ... lly for char
@@ -42,7 +42,7 @@ cout << i << endl;
 char ch = 98;
 cout << ch << endl;
 // In ASCII table 98 <-> b so Result will be "b"
-*/
+
 
 int a = 4 ;
 int b = 5 ;
