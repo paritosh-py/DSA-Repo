@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-
+// First Code
 int a = 7;
 cout << a <<endl ;
 
@@ -33,7 +33,7 @@ cout << "The Size of Data type 'FLOAT' is : " << size3 << endl;
 
 int size4 = sizeof(double);
 cout << "The Size of Data type 'DOUBLE' is : " << size4 << endl;
-
+// Second Code // 
 
 int i = 'a';
 cout << i << endl;
@@ -43,7 +43,7 @@ char ch = 98;
 cout << ch << endl;
 // In ASCII table 98 <-> b so Result will be "b"
 
-
+// 3rd Code //
 int a = 4 ;
 int b = 5 ;
 bool i = (a==b);
