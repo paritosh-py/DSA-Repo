@@ -1,3 +1,4 @@
 *.exe
 *.onetoc2
 *tempCodeRunnerFile.cpp
+*.gitignore
