@@ -17,7 +17,7 @@ int main() {
         sum = sum + last_digit;
         n = n/10 ; // We dont have to declare a new variable here cuzz we need to...
     }              // update the value of n 
-    cout << prod - sum ; 
+    cout << "The solution of the problem is : "<< prod - sum ; 
     
     return 0;
 }
